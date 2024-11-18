@@ -1,0 +1,204 @@
+.head{
+    background-repeat: initial;
+    background-image: url(1722212534236.jpg);
+    height: 800px;
+    width: 100%;
+    margin-top: -8px;
+}
+
+.logo{
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    margin-top: -30px;
+    margin-left: 110px;
+    border: 3px solid green;
+    position: sticky;
+    top: 0%;
+}
+
+.logos{
+    margin-top: -12px;
+    margin-left: 45px;
+}
+
+
+
+li{
+    display: inline-block;
+    margin-left: 40px;
+    color: green;
+    padding-top: 20px;
+}
+
+.list{
+    background-color: white;
+    height: 60px;
+    width: 750px;
+    margin-left: 40%;
+    justify-content: center;
+    margin-top: -100px;
+    outline: 1px solid green;
+    position: sticky;
+    top: 0%;
+}
+
+li:hover{
+    background-color: green;
+    height: 42px;
+    color: white;
+    width: 72px;
+    text-align: center;
+}
+
+.port{
+    width: 70%;
+    margin-left: 15%;
+    background-color: white;
+    height: 680px;
+    margin-top: 45px;
+    position: absolute;
+}
+
+.ort{
+    text-align: center;
+    color: green;
+    font-weight: bolder;
+    margin-top: 25px;
+    font-size: larger;
+}
+
+.grn{
+    border: 1px solid darkgreen;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: -8px;
+}
+
+.bef{
+    text-align: center;
+    color: royalblue;
+    font-size: smaller;
+    margin-top: -2px;
+}
+
+.an{
+    text-align: center;
+    margin-top: -8px;
+    font-size: small;
+}
+
+.form1{
+
+    width: 35%;
+    margin-left: 15%;
+    float: left;
+    margin-bottom: 30px;
+}
+
+form{
+    display: inline;
+}
+
+.fname{
+    margin-left: 145px;
+    margin-top: -40px;
+    display: flex;
+    height: 25px;
+}
+
+.form2{
+    margin-right: -460px;
+    margin-top: -285px;
+    float: right;
+}
+
+.do{
+    font-size: small;
+    margin-top: 15px;
+}
+
+.select{
+    height: 35px;
+    margin-left: 145px;
+    width: 180px;
+    margin-top: -35px;
+    position: absolute;
+}
+
+.het{
+    color: red;
+    text-align: center;
+    padding-top: 15PX;
+    position: relative;
+}
+
+.iew{
+    text-align: center;
+    color: darkmagenta;
+    margin-top: -9px;
+}
+
+.pro{
+    margin-top: 15px;
+}
+
+.pop{
+    color: red;
+    font-size: small;
+    margin-top: 10px;
+    padding-top: 5px;
+    position: absolute;
+}
+
+.rof{
+    margin-top: 70px;
+    position: absolute;
+}
+
+.ship{
+    margin-left: 150px;
+    margin-top: 60px;
+    height: 30px;
+    box-sizing: 2px;
+}
+
+.ck{
+    margin-top: 35px;
+}
+
+.agre{
+    margin-left: 30px;
+    margin-top: -20px;
+}
+
+.info{
+    width: 90%;
+    height: 20px;
+    background-color: aquamarine;
+    margin-top: 490px;
+    position: relative;
+    justify-content: right;
+    margin-left: 5%;
+}
+
+.not{
+    font-size: small;
+    text-align: right;
+    margin-right: 300px;
+}
+
+.lolo{
+    color: red;
+}
+
+.gt{
+    width: 90%;
+    background-color: rgba(8, 117, 117, 0.829);
+    border: none;
+    height: 40px;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    margin-left: 5%;
+}

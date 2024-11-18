@@ -1,0 +1,181 @@
+.head{
+    background-repeat: initial;
+    background-image: url(1722212534236.jpg);
+    height: 800px;
+    width: 100%;
+    margin-top: -8px;
+}
+
+.logo{
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    margin-top: -30px;
+    margin-left: 110px;
+    border: 3px solid green;
+    position: sticky;
+    top: 0%;
+}
+
+.logos{
+    margin-top: -33px;
+}
+
+
+
+li{
+    display: inline-block;
+    margin-left: 40px;
+    color: green;
+    padding-top: 20px;
+}
+
+.list{
+    background-color: white;
+    height: 60px;
+    width: 750px;
+    margin-left: 40%;
+    justify-content: center;
+    margin-top: -100px;
+    outline: 1px solid green;
+    position: sticky;
+    top: 0%;
+}
+
+li:hover{
+    background-color: green;
+    height: 42px;
+    color: white;
+    width: 72px;
+    text-align: center;
+}
+
+.form{
+    height: 500px;
+    width: 25%;
+    background-color: white;
+    margin-left: 37.5%;
+    margin-top: 150px;
+    position: absolute;
+}
+
+.wlc{
+    text-align: center;
+    font-weight: bold;
+    color: darkgreen;
+    margin-top: 12px;
+}
+
+.ent{
+    text-align: center;
+    color: lightgray;
+}
+
+.user{
+    height: 30px;
+    margin-left: 35px;
+    width: 250px;
+    box-sizing: 1px;
+    margin-top: 10px;
+}
+
+.user1{
+    height: 30px;
+    margin-left: 35px;
+    width: 250px;
+    box-sizing: 1px;
+    margin-top: 20px;
+}
+
+.select{
+    height: 30px;
+    margin-left: 37px;
+    width: 260px;
+    box-sizing: 1px;
+    margin-top: 20px;
+    font-weight: lighter;
+}
+
+.option:hover{
+    background-color: green;
+}
+
+button{
+    background-color: lightseagreen;
+    color: white;
+    height: 30px;
+    margin-left: 35px;
+    width: 265px;
+    margin-top: 15px;
+    border: none;
+}
+
+.gor{
+    text-align: center;
+    color: blue;
+    font-size: x-small;
+}
+
+.dy{
+    text-align: center;
+    color: rgb(136, 132, 132);
+    font-size: x-small;
+}
+
+button:hover{
+    background-color: seagreen;
+}
+
+.pro{
+    width: 265px;
+    height: 30px;
+    background-color: blue;
+    margin-left: 35px;
+}
+
+.start{
+    color: white;
+    text-align: center;
+    justify-items: center;
+}
+
+.space{
+    width: 100%;
+    height: 40px;
+    background-color: white;
+}
+
+.footer{
+    background-color: darkblue;
+    width: 100%;
+    height: 150px;
+}
+
+.wi{
+    text-align: center;
+    color: wheat;
+    padding-top: 10px;
+}
+
+.svg1{
+    height: 60px;
+    margin-left: 15%;
+}
+
+.svg2{
+    height: 60px;
+    margin-left: 25%;
+    margin-top: -30px;
+}
+
+.svg3{
+    height: 60px;
+    margin-left: 35%;
+    margin-top: -42px;
+}
+
+.win{
+    text-align: center;
+    color: wheat;
+    margin-top: -30px;
+}

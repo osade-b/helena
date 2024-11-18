@@ -1,0 +1,286 @@
+.header{
+    width: 100%;
+    height: 100px;
+    background-color:white;
+    position: absolute;
+}
+
+.img1{
+    margin-top: -35px;
+    display: inline;
+    position: absolute;
+}
+
+.svg1{
+    height: 40px;
+    margin-left: 400px;
+    margin-top: 25px;
+    position: none;
+ 
+}
+
+.work{
+    margin-left: 450px ;
+    margin-top: -43px;
+    font-size: large;
+}
+
+.svg2{
+    height: 40px;
+    margin-left: 720px;
+    margin-top: -4%;
+    position: absolute;
+}
+
+.works{
+    margin-left: 770px;
+    margin-top: -4%;
+    font-size: large;
+}
+
+.svg3{
+    margin-left: 990px;
+    margin-top: -4%;
+    position: absolute;
+    height: 40px;
+}
+
+.our{
+    margin-left: 1040px;
+    margin-top: -4%;
+    font-size:large ;
+}
+
+.nav{
+    width: 100%;
+    height: 50px;
+    background-color: lightgrey;
+    margin-top: 100px;
+    position: absolute;
+}
+
+li{
+    display: inline;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.port{
+    width: 100px;
+    background-color: green;
+    color: white;
+    height: 20px;
+}
+
+.ban{
+    background-image:url(1722212534236.jpg);
+    height: 800px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bar{
+    color: black;
+    font-weight: bolder;
+    margin-top: 250px;
+    position: absolute;
+    margin-left: 30px;
+    font-size: 50px;
+    color: white;
+}
+
+.he{
+    margin-top: 399px;
+    color: white;
+    position: absolute;
+    margin-left: 30px;
+}
+
+.learn{
+    margin-top: 450px;
+    margin-left: 30px;
+    background-color: green;
+    height: 50px;
+    width: 240px;
+    color: white;
+    border: none;
+}
+
+.learn2{
+    margin-top: 450px;
+    margin-left: 50px;
+    background-color: green;
+    height: 50px;
+    width: 240px;
+    color: white;
+    border: none;
+    position: absolute;
+}
+
+.ass{
+    margin-top: 530px;
+    background-color: white;
+    height: 50px;
+    width: 530px;
+    color: green;
+    border: none;
+    position: absolute;
+    margin-left: -240px;
+}
+
+.reg{
+    width: 100%;
+    background-color: lightgray;
+    height: 400px;
+    position: absolute;
+}
+
+.eng{
+    color: green;
+    text-align: center;
+    margin-top: 30px;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+.cym{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: -9px;
+}
+
+.hr1{
+    width: 50px;
+    border: 2.5px solid green;
+}
+
+.ing{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.peace{
+    height: 300px;
+    background-color: white;
+    width: 80%;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 300px;
+}
+
+.view{
+    height: 300px;
+    width: 25%;
+    border: 1px solid black;
+}
+
+.apo{
+    margin-left: 5px;
+    font-size: larger;
+    margin-top: 40px;
+}
+
+.lar{
+    margin-left: 5px;
+    font-size: 17.5px;
+}
+
+.mic{
+    height: 80px;
+    margin-left: 5%;
+}
+
+.vw{
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.view2{
+    height: 300px;
+    width: 25%;
+    border: 1px solid black;
+    margin-left: 25%;
+    margin-top: -302px;
+}
+
+.view3{
+    height: 300px;
+    width: 25%;
+    border: 1px solid black;
+    margin-left: 50%;
+    margin-top: -302px;
+}
+
+.view4{
+    margin-left: 75%;
+    margin-top: -302px;
+    height: 300px;
+    width: 25%;
+    border: 1px solid black;
+}
+
+.view4:hover{
+    background-color: green;
+    color: white;
+}
+
+.view3:hover{
+    background-color: green;
+    color: white;
+}
+
+.view2:hover{
+    background-color: green;
+    color: white;
+}
+
+.view:hover{
+    background-color: green;
+    color: white;
+}
+
+.firms{
+    background-image: url(1722212534236.jpg);
+    width: 100%;
+    height:700px;
+    margin-top: -100px;
+    margin-top: 400px;
+    display: grid;
+}
+
+.fsvg{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    margin-top: 450px;
+    margin-left: 20%;
+}
+
+.mrkt{
+    width: 170px;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.sx{
+    color: white;
+    font-size: 50px;
+    margin-left: 25%;
+    margin-top: -110px;
+    font-weight: bolder;
+
+}
+
+.ist{
+    margin-left: 380px;
+    margin-top: -860px;
+}
+
+.sx1{
+    color: white;
+    margin-left: 30%;
+    font-size: 50px;
+    font-weight: bolder;
+}
